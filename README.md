@@ -11,6 +11,8 @@ O objetivo desse desafio foi colocar em prática os conceitos de React Native ad
 
 ![app](https://i.imgur.com/jRNVE9t.png)
 
+### ✅️ A aplicação passou em todos os testes automatizados com sucesso.
+
 <br>
 <br>
 Made by <i>🚀 Felipe Silva<i> based in a @rocketseat repository 💜
