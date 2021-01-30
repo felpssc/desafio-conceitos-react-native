@@ -58,7 +58,7 @@ export default function App() {
               </ScrollView>
 
               <View style={styles.likesContainer}>
-                <Text style={styles.likeText} testID={`repository-likes-${repo.id}`}>{repo.likes} curtidas</Text>
+                <Text style={styles.likeText} testID={`repository-likes-${repo.id}`}>💜 {repo.likes} curtidas</Text>
               </View>
 
               <TouchableOpacity
